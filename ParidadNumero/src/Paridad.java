@@ -9,7 +9,7 @@ public class Paridad {
 
 		if(num%2 != 0){
 			System.out.println("El numero es impar");
-		}
+		}else
 		System.out.println("El numero es par");
 	}
 
